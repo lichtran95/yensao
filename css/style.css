@@ -63,7 +63,7 @@ header .banner:after {
 }
 @media (max-width: 568px) {
   header .banner {
-    background-attachment: none;
+    background-attachment: inherit;
   }
   header .banner:after {
     padding-top: 100%;
