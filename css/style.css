@@ -62,6 +62,9 @@ header .banner:after {
   padding-top: 50.25%;
 }
 @media (max-width: 568px) {
+  header .banner {
+    background-attachment: none;
+  }
   header .banner:after {
     padding-top: 100%;
   }
